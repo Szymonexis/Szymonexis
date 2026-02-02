@@ -6,5 +6,5 @@ I am Simon (pol. Szymon) - your friendly neighborhood developer from Poland. Hap
 - **🌱 I’m currently learning:** Typescript, Golang but I don't like limiting myself
 - **📫 How to reach me:** [szymonkaszubagalka.innovio@gmail.com](mailto:szymonkaszubagalka.innovio@gmail.com)
 - **📖 My cv (I try to keep it up-to-date):** [CV](https://github.com/Szymonexis/cv/blob/master/Curriculum%20Vitae%20-%20Szymon%20Kaszuba-Galka.pdf)
-- **⚡ Fun fact:** World currently has are more smartphone owners then toothbrush owners
+- **⚡ Fun fact:** World currently has more smartphone owners then toothbrush owners
 
